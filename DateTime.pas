@@ -5,5 +5,11 @@ end;
 
 function LaterInYear() := 1;
 
+function DaysInYear() := 2;
+
+function DaysInYearRange() := 3;
+
+function SeconsInHours() := 4;
+
 begin
 end.
