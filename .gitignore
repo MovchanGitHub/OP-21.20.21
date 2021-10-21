@@ -1,4 +1,0 @@
-*.exe
-*.pdb
-bin
-\data\secret_key.txt
